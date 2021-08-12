@@ -1,0 +1,76 @@
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
+    font-family: 'Suisse';
+    font-weight: normal;
+}
+
+@font-face {
+    src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff
+    );
+    font-family: 'Suisse';
+    font-weight: bold;
+}
+
+* {
+  background: white;
+  font-family: 'Suisse';
+  text-align: center;
+}
+
+#title {
+  font-weight: bold;
+  display: inline-block;
+}
+
+#short-story {
+  background-color: #428542;
+  color: white;
+  font-weight: lighter;
+  margin-right:450px;
+  margin-left:450px;
+  margin-top: 0px;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+#img-div {
+  background: rgba(246,246,246,.96);
+  margin-right: 20px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+#image {
+  height: auto;
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+#tribute-info {
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+li {
+  margin-bottom: 20px;
+  font-size: 17px;
+  margin-top: 20px;
+  font-family: ' Arial';
+  text-align: left;
+}
+strong {
+  color: #A65353;
+}
+
+a {
+  background-color: #428542;
+  color: white;
+}
+
+.href {
+  text-align: right;
+  font-size: 13px;
+}
+
+
