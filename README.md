@@ -2,4 +2,4 @@
 Страница дани уважения Софье Ковалевской
 
 Ссылка на codepen:
-https://codepen.io/anastasiia-kazachinskaya/full/zYwbxgJ
+https://cdpn.io/anastasiia-kazachinskaya/debug/zYwbxgJ/LDAmdnKbqdEr
